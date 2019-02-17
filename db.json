@@ -1,6 +1,6 @@
 {
-  summary: {
-    credit: 100,
-    debt: 50
+  "summary": {
+    "credit": 100,
+    "debt": 50
   }
 }
